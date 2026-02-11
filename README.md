@@ -1,6 +1,36 @@
-  - Document CTF challenges you've solved
+# [Machine Name] - TryHackMe/HTB
 
-   - Show problem-solving skills
+## Machine Info
+- Difficulty: Easy/Medium/Hard
+- OS: Linux/Windows
+- IP: 10.10.10.x
 
-   - Demonstrates learning
+## Enumeration
+```bash
+nmap -sC -sV -oN nmap.txt 10.10.10.x
+```
 
+[Results]
+
+## Initial Access
+
+[Steps]
+
+## Privilege Escalation
+
+[Steps]
+
+## Flags
+
+User: [REDACTED]
+Root: [REDACTED]
+
+## Tools Used
+
+- Nmap
+- Burp Suite
+- etc.
+
+## Lessons Learned
+
+[Your learnings]
